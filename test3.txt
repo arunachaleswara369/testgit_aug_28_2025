@@ -1,0 +1,1 @@
+Generative AI is a type of artificial intelligence that creates new, original content—such as text, images, music, audio, and videos—by learning patterns and structures from large datasets it was trained on. Unlike traditional AI, which performs specific, pre-defined tasks, generative AI extrapolates from its training data to produce novel outputs in response to user prompts.
